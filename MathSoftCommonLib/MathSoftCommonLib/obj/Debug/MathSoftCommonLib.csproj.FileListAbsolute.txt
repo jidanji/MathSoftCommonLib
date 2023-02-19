@@ -1,0 +1,12 @@
+C:\Users\malia\source\repos\yuhongxiadataServer\MathSoftCommonLib\bin\Debug\MathSoftCommonLib.dll
+C:\Users\malia\source\repos\yuhongxiadataServer\MathSoftCommonLib\bin\Debug\MathSoftCommonLib.pdb
+C:\Users\malia\source\repos\yuhongxiadataServer\MathSoftCommonLib\bin\Debug\MathSoftModelLib.dll
+C:\Users\malia\source\repos\yuhongxiadataServer\MathSoftCommonLib\bin\Debug\MySql.Data.dll
+C:\Users\malia\source\repos\yuhongxiadataServer\MathSoftCommonLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\malia\source\repos\yuhongxiadataServer\MathSoftCommonLib\bin\Debug\System.Data.SQLite.DLL
+C:\Users\malia\source\repos\yuhongxiadataServer\MathSoftCommonLib\bin\Debug\MathSoftModelLib.pdb
+C:\Users\malia\source\repos\yuhongxiadataServer\MathSoftCommonLib\obj\Debug\MathSoftCommonLib.csprojAssemblyReference.cache
+C:\Users\malia\source\repos\yuhongxiadataServer\MathSoftCommonLib\obj\Debug\MathSoftCommonLib.csproj.CoreCompileInputs.cache
+C:\Users\malia\source\repos\yuhongxiadataServer\MathSoftCommonLib\obj\Debug\MathSoftCommonLib.csproj.CopyComplete
+C:\Users\malia\source\repos\yuhongxiadataServer\MathSoftCommonLib\obj\Debug\MathSoftCommonLib.dll
+C:\Users\malia\source\repos\yuhongxiadataServer\MathSoftCommonLib\obj\Debug\MathSoftCommonLib.pdb
